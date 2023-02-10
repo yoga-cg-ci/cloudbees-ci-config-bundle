@@ -11,6 +11,8 @@ plugins:
 - id: cloudbees-groovy-view
 - id: cloudbees-monitoring
 - id: cloudbees-nodes-plus
+- id: cloudbees-pipeline-policies
+- id: cloudbees-slack
 - id: cloudbees-template
 - id: cloudbees-view-creation-filter
 - id: cloudbees-workflow-template
@@ -36,5 +38,6 @@ plugins:
 - id: pipeline-utility-steps
 - id: popper-api
 - id: warnings-ng
+- id: wikitext
 - id: workflow-aggregator
 - id: workflow-cps-checkpoint
